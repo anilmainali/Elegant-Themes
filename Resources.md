@@ -13,5 +13,8 @@
 # 10 Steps to Using a New Divi Layout Pack for your Next Project
 [10 Steps to Using a New Divi Layout Pack for your Next Project](https://www.youtube.com/watch?v=rWP8JAW1m_Y)
 
+# Introducing Divi Scroll Effects. The Ultimate Web Animation Builder!
+[Introducing Divi Scroll Effects. The Ultimate Web Animation Builder!](https://www.youtube.com/watch?v=VsM2e8SeNaQ)
+
 
 
