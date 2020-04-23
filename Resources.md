@@ -16,5 +16,7 @@
 # Introducing Divi Scroll Effects. The Ultimate Web Animation Builder!
 [Introducing Divi Scroll Effects. The Ultimate Web Animation Builder!](https://www.youtube.com/watch?v=VsM2e8SeNaQ)
 
+(https://www.elegantthemes.com/blog/theme-releases/divi-scroll-effects)
+
 
 
